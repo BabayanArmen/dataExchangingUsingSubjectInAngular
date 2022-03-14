@@ -1,0 +1,9 @@
+.wrapper{
+    display: flex;
+    flex-direction: row;
+}
+.page{
+    flex: 1;
+    border: 1px solid green;
+    height: 100vh;
+}
